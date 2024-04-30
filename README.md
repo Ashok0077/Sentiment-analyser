@@ -8,7 +8,7 @@ How to Run?
 open index.html file in browser.
 
 
-open VS code terminal and type "python server.js"
+open VS code terminal and type "python server.py"
 
 
 
